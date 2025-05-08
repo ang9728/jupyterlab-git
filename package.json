@@ -84,7 +84,7 @@
         "@lumino/widgets": "^2.0.1",
         "@mui/icons-material": "^5.11.16",
         "@mui/lab": "^5.0.0-alpha.127",
-        "@mui/material": "^5.12.1",
+        "@mui/material": "^7.0.0",
         "@mui/styles": "^5.12.0",
         "diff-match-patch": "^1.0.4",
         "filesize": "^10.0.7",
