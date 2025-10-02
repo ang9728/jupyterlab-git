@@ -83,7 +83,7 @@
         "@lumino/signaling": "^2.0.0",
         "@lumino/widgets": "^2.0.1",
         "@mui/icons-material": "^5.11.16",
-        "@mui/lab": "^5.0.0-alpha.127",
+        "@mui/lab": "^7.0.0",
         "@mui/material": "^5.12.1",
         "@mui/styles": "^5.12.0",
         "diff-match-patch": "^1.0.4",
